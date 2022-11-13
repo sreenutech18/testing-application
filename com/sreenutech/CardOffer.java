@@ -1,4 +1,6 @@
-public class CardOffers{
+package com.sreenutech;
+
+public class CardOffer{
 	
 	public void m1(){
 	
@@ -12,7 +14,7 @@ public class CardOffers{
 	
 	public static void main(String[] args){
 		
-		CardOffers offer = new CardOffers();
+		CardOffer offer = new CardOffer();
 		offer.m1();
 		offer.m2();
 	}	
