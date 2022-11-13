@@ -4,5 +4,9 @@ public class CardOffers{
 		
 		
 	}
+	public void m2(){
+		
+		
+	}
 
 }	
